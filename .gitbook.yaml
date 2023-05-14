@@ -1,0 +1,35 @@
+root: ./
+
+structure:
+    readme: README.md
+    summary: SUMMARY.md
+
+redirects:
+    dev/developers.html: ./development/getting-started/README.md
+    dev/quickstart.html: ./development/getting-started/README.md
+    dev/secret-contracts.html: ./development/secret-contracts/README.md
+    dev/tutorials.html: ./development/secret-by-example/community-tutorials.md
+    protocol/governance.html: ./development/tools-and-libraries/secret-cli/governance/README.md
+    backup/backup-a-validator.html: ./node-runners/node-setup/best-practices/README.md
+    cosmovisor.html: ./post-mortems-upgrades/upgrade-instructions/cosmovisor.md
+    node-guides/full-node-docker.html: ./node-runners/node-monitoring/docker/README.md
+    node-guides/join-validator-mainnet.html: ./node-runners/testnet/join-as-a-validator.md
+    node-guides/registration.html: ./node-runners/node-setup/README.md
+    node-guides/run-full-node-mainnet.html: ./node-runners/node-setup/setup-full-node.md
+    node-guides/setup-sgx.html: ./node-runners/node-setup/install-sgx.md
+    node-guides/state-sync.html: ./node-runners/node-setup/state-sync.md
+    node-guides/verify-sgx.html: ./node-runners/misc/verify-sgx.md
+    shockwave-alpha-upgrade-secret-4.html: ./post-mortems-upgrades/upgrade-instructions/shockwave-alpha.md
+    testnet/run-full-node-testnet.html: ./node-runners/node-setup/setup-full-node.md
+    secret-network-documentation/ecosystem-overview/funding/secret-labs-grants.html: ./ecosystem-overview/funding/secret-labs-grants.md
+    backup/backup/wallets: ./ecosystem-overview/README.md
+    cli/install-cli.html: ./development/tools-and-libraries/secret-cli/install.md
+    guides/governance.html: ./development/tools-and-libraries/secret-cli/governance/README.md
+    protocol/encryption-specs.html: ./node-runners/node-setup/README.md
+    development/local-secret: ./development/tools-and-libraries/local-secret.md
+    development/intro-to-secret-contracts: ./development/secret-by-example/intro-to-secret-contracts.md
+    development/secretjs/templates: ./development/tools-and-libraries/secretjs/README.md
+    ecosystem-overview/contributors-and-entities/core/secret-committees/development: ./overview-ecosystem-and-technology/ecosystem-overview/contributors-and-entities/secret-committees/development.md
+    privacy-technology/detailed-steps-of-a-private-transaction: ./overview-ecosystem-and-technology/techstack/detailed-steps-of-a-private-transaction.md
+    secret-network-overview/privacy-technology/detailed-steps-of-a-private-transaction: ./overview-ecosystem-and-technology/techstack/detailed-steps-of-a-private-transaction.md
+

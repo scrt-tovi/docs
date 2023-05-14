@@ -1,6 +1,6 @@
 # Getting Started
 
-The "Getting Started" section is to help new community members start developing on Secret Network using standard tools for Secret Contract development. The goal is to provide an easy guide to follow with step-by-step instructions. We will also review some of the unique characteristics of contracts on Secret Network, though we will keep things at a very high level.
+The "Getting Started" section is to help new community members start developing on Secret Network using standard tools for Secret Contract development. The goal is to provide an easy guide to follow with step-by-step instructions. We will also review some of the unique characteristics of contracts on Secret Network, though we will keep things at a very high level.&#x20;
 
 Topics covered:
 
@@ -11,11 +11,11 @@ Topics covered:
 
 What **won't** be covered:
 
-* An in-depth guide to developing Secret Contracts
-* Secret Network architecture
-* How to create a web UI for Secret Contracts
+* An in-depth guide to developing Secret Contracts - [Secret By Example](broken-reference)
+* Secret Network architecture - [Secret Network Techstack](../../overview-ecosystem-and-technology/techstack/)
+* How to create a web UI for Secret Contracts - [Secret.Js](../tools-and-libraries/frontend-development/secretjs/)
 
-Most of the topics covered focus directly on Secret Network but are also relevant to other cosmos-based blockchains.&#x20;
+Most of the topics covered focus directly on Secret Network but are also relevant to other cosmos-based blockchains.
 
 {% hint style="info" %}
 If at any point you have any trouble understanding or following along, [join us on discord](https://chat.scrt.network) to get help from the community!

@@ -1,3 +1,0 @@
-# Documentation Bounties
-
-## Coming Soon!
